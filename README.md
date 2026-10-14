@@ -16,12 +16,11 @@ I'm currently developing my knowledge of requirements engineering, business proc
 
 ### 🛠 Tools I'm Learning
 
-- Draw.io
-- Jira
-- SQL
-- Microsoft Excel
-- Power BI
-- Figma
+- **Process Modeling:** Draw.io, Lucidchart
+- **Project & Backlog Management:** Jira, Trello
+- **Documentation & Collaboration:** Confluence
+- **Data Analysis:** SQL, Microsoft Excel, Power BI
+- **Wireframing:** Figma
 
 ### 📂 My Portfolio
 
