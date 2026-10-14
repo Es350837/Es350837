@@ -1,4 +1,4 @@
-# Hi, I'm Esraa Adel 👋
+# Hi, I'm Esraa Adel 
 
 ### Aspiring Business Analyst | Requirements Engineering | BPMN | Agile & Scrum
 
