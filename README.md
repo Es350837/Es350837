@@ -14,7 +14,7 @@ I'm currently developing my knowledge of requirements engineering, business proc
 - **Stakeholder Management:** Stakeholder Analysis, Engagement & Communication
 - **Software Development:** SDLC Fundamentals, Agile vs. Waterfall
 
-### 🛠 Tools I'm Learning
+### 🛠 Tools & Technologies
 
 - **Process Modeling:** Draw.io, Lucidchart
 - **Project & Backlog Management:** Jira, Trello
